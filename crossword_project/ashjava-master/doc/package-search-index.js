@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Game"},{"l":"GrilleMots"},{"l":"GUI"},{"l":"Utilitaire"}];updateSearchResults();
